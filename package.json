@@ -9,7 +9,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.9",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "normalize.css": "^7.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
